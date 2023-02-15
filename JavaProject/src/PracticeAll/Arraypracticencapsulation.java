@@ -7,6 +7,7 @@ public class Arraypracticencapsulation {
 		int[] c=ArrayEncapsulationget.getarray();
 		for(int i=0;i<c.length;i++)
 			System.out.print(c[i]+" ");
+		System.out.println("use for commit");
 	}
 
 }
